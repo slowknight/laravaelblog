@@ -1,0 +1,1 @@
+C:\xampp\htdocs\dev\laravelblog\app/views/posts/create.blade.php
